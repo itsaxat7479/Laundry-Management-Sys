@@ -25,4 +25,4 @@
 
 ![alt text](https://github.com/itsaxat7479/Laundry-Management-Sys/blob/564785a8ae4cd2736050461c4f4cc652899bb533/laundary%20managenet/Screenshot%20(46).png)
 
-![alt text](https://github.com/itsaxat7479/Laundry-Management-Sys/blob/564785a8ae4cd2736050461c4f4cc652899bb533/laundary%20managenet/Screenshot%20(47).png)
+![alt text](https://github.com/itsaxat7479/Laundry-Management-Sys/blob/564785a8ae4cd2736050461c4f4cc652899bb533/laundary%20managenet/Screenshot%20(41).png)
